@@ -1,0 +1,78 @@
+Host 0141
+    HostName 192.168.0.141
+    Compression yes
+    ForwardX11 yes
+    Ciphers blowfish-cbc,arcfour
+    Port 22
+    User root
+Host 0142
+    HostName 192.168.0.142
+    Port 22
+    Compression yes
+    ForwardX11 yes
+    Ciphers blowfish-cbc,arcfour
+    User root
+Host 0143
+    HostName 192.168.0.143
+    Port 22
+    Compression yes
+    ForwardX11 yes
+    Ciphers blowfish-cbc,arcfour
+    User root
+Host 0124
+    HostName 192.168.0.124
+    Port 22
+    Compression yes
+    ForwardX11 yes
+    Ciphers blowfish-cbc,arcfour
+    User root
+Host 0118
+    HostName 192.168.0.118
+    Port 22
+    Compression yes
+    ForwardX11 yes
+    Ciphers blowfish-cbc,arcfour
+    User root
+Host 0123
+    HostName 192.168.0.123
+    Port 22
+    Compression yes
+    ForwardX11 yes
+    Ciphers blowfish-cbc,arcfour
+    User root
+Host 023
+    HostName 192.168.0.23
+    Port 22
+    Compression yes
+    ForwardX11 yes
+    Ciphers blowfish-cbc,arcfour
+    User root
+Host 0132
+    HostName 192.168.0.132
+    Port 22
+    Compression yes
+    ForwardX11 yes
+    Ciphers blowfish-cbc,arcfour
+    User root
+Host 0209
+    HostName 192.168.0.209
+    Port 22
+    Compression yes
+    ForwardX11 yes
+    Ciphers blowfish-cbc,arcfour
+    User root
+Host e12161-im
+    HostName 14.152.121.61
+    Port 22
+    Compression yes
+    ForwardX11 yes
+    Ciphers blowfish-cbc,arcfour
+    User root
+Host e12160-db
+    HostName 14.152.121.60
+    Port 22
+    Compression yes
+    ForwardX11 yes
+    Ciphers blowfish-cbc,arcfour
+    User root
+
